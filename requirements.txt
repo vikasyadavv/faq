@@ -1,0 +1,4 @@
+N8N (locally hosted in Docker)
+Ollama {chat & embedding model} (locally hosted in Docker)
+Supabase Vector DB (locally hosted in Docker)
+HPC (for cloud-based hosting and large-scale)

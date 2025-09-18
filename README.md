@@ -121,6 +121,8 @@ If you encounter any issues:
 
 ## RAG Pipeline Workflow
 
+[image alt](https://github.com/vikasyadavv/faq/blob/9f1facecb9b869103697f73af53aeb45affec042/images/RAG_pipeline.svg)
+
 ## 1. Overview of RAG
 - **Retrieval**: Find relevant documents or data from a knowledge base (e.g., FAQs, PDFs, spreadsheets).
 - **Augmentation**: Pass retrieved context to a generative model (LLM) to produce a natural language answer.
@@ -146,6 +148,8 @@ If you encounter any issues:
 ### D. Generation
 - **Prompt Construction**: The user query and retrieved context are combined into a prompt.
 - **LLM Response**: The prompt is sent to a generative model (**qwen model**) to generate a natural language answer.
+
+[image alt](https://github.com/vikasyadavv/faq/blob/9f1facecb9b869103697f73af53aeb45affec042/images/LLM_pipeline.svg)
 
 ---
 
